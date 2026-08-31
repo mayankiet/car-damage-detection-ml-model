@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
+PyMuPDF
+python-docx
+Pillow
+pytesseract
