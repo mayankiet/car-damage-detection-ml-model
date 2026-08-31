@@ -6,7 +6,7 @@ from pathlib import Path
 
 GEMINI_MODEL = os.getenv(
     "GEMINI_MODEL",
-    "gemini-3.6-flash",
+    "gemini-3.1-flash-lite",
 )
 
 

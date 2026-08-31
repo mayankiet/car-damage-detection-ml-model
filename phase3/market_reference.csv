@@ -1,0 +1,129 @@
+brand,model,variant,year,fuel,city,min_price_inr,median_price_inr,max_price_inr,source,source_date
+Maruti Suzuki,Swift,VXI,2020,Petrol,Delhi,500000,560000,620000,Illustrative market reference,2026-08-29
+Maruti Suzuki,Swift,VXI,2021,Petrol,Delhi,560000,620000,690000,Illustrative market reference,2026-08-29
+Maruti Suzuki,Baleno,Delta,2020,Petrol,Delhi,520000,590000,660000,Illustrative market reference,2026-08-29
+Maruti Suzuki,Baleno,Zeta,2021,Petrol,Delhi,590000,660000,730000,Illustrative market reference,2026-08-29
+Maruti Suzuki,WagonR,VXI,2020,Petrol,Delhi,390000,440000,500000,Illustrative market reference,2026-08-29
+Maruti Suzuki,Brezza,VXI,2021,Petrol,Delhi,760000,850000,950000,Illustrative market reference,2026-08-29
+Hyundai,i20,Sportz,2020,Petrol,Delhi,620000,690000,770000,Illustrative market reference,2026-08-29
+Hyundai,i20,Asta,2021,Petrol,Delhi,700000,780000,870000,Illustrative market reference,2026-08-29
+Hyundai,Creta,SX,2020,Diesel,Delhi,1050000,1170000,1300000,Illustrative market reference,2026-08-29
+Hyundai,Creta,S,2021,Petrol,Delhi,980000,1080000,1190000,Illustrative market reference,2026-08-29
+Hyundai,Venue,S,2020,Petrol,Delhi,650000,720000,800000,Illustrative market reference,2026-08-29
+Tata,Nexon,XZ,2020,Petrol,Delhi,650000,730000,820000,Illustrative market reference,2026-08-29
+Tata,Nexon,XZ+,2021,Petrol,Delhi,740000,820000,910000,Illustrative market reference,2026-08-29
+Tata,Harrier,XZA,2020,Diesel,Delhi,1050000,1160000,1280000,Illustrative market reference,2026-08-29
+Tata,Punch,Accomplished,2022,Petrol,Delhi,650000,720000,800000,Illustrative market reference,2026-08-29
+Honda,City,V,2020,Petrol,Delhi,820000,910000,1010000,Illustrative market reference,2026-08-29
+Honda,City,VX,2021,Petrol,Delhi,930000,1030000,1140000,Illustrative market reference,2026-08-29
+Toyota,Innova Crysta,GX,2020,Diesel,Delhi,1450000,1600000,1760000,Illustrative market reference,2026-08-29
+Toyota,Fortuner,4x2,2020,Diesel,Delhi,2350000,2600000,2900000,Illustrative market reference,2026-08-29
+Kia,Seltos,HTK,2020,Diesel,Delhi,980000,1090000,1210000,Illustrative market reference,2026-08-29
+Kia,Seltos,HTX,2021,Petrol,Delhi,1050000,1160000,1280000,Illustrative market reference,2026-08-29
+Mahindra,XUV500,W8,2019,Diesel,Delhi,850000,950000,1060000,Illustrative market reference,2026-08-29
+Mahindra,XUV700,AX5,2022,Diesel,Delhi,1450000,1580000,1720000,Illustrative market reference,2026-08-29
+Renault,Kiger,RXT,2022,Petrol,Delhi,650000,720000,800000,Illustrative market reference,2026-08-29
+Volkswagen,Taigun,Highline,2022,Petrol,Delhi,1050000,1160000,1280000,Illustrative market reference,2026-08-29
+Skoda,Kushaq,Style,2022,Petrol,Delhi,1050000,1160000,1280000,Illustrative market reference,2026-08-29
+BMW,X1,sDrive20d,2019,Diesel,Delhi,1600000,1800000,2000000,Illustrative market reference,2026-08-29
+BMW,X1,sDrive20d,2019,Diesel,Gurgaon,1650000,1850000,2050000,Illustrative market reference,2026-08-29
+Mercedes-Benz,C-Class,C220d,2019,Diesel,Delhi,2100000,2350000,2600000,Illustrative market reference,2026-08-29
+Audi,Q3,35 TDI,2019,Diesel,Delhi,1800000,2000000,2250000,Illustrative market reference,2026-08-29
+BMW,1 Series,118d Sportline,2016,Diesel,Delhi,1100000,1250000,1400000,Illustrative market reference,2026-08-30
+BMW,1 Series,118d Sportline,2017,Diesel,Gurgaon,1250000,1400000,1550000,Illustrative market reference,2026-08-30
+BMW,2 Series Gran Coupe,220d Sportline,2020,Diesel,Delhi,1850000,2050000,2250000,Illustrative market reference,2026-08-30
+BMW,2 Series Gran Coupe,220d M Sport,2021,Diesel,Gurgaon,2150000,2350000,2550000,Illustrative market reference,2026-08-30
+BMW,2 Series Gran Coupe,220i Sportline,2021,Petrol,Delhi,2000000,2200000,2400000,Illustrative market reference,2026-08-30
+BMW,3 Series,320d Sport,2017,Diesel,Delhi,1850000,2050000,2250000,Illustrative market reference,2026-08-30
+BMW,3 Series,320d Luxury Line,2018,Diesel,Gurgaon,2100000,2300000,2500000,Illustrative market reference,2026-08-30
+BMW,3 Series,320d M Sport,2019,Diesel,Gurgaon,2400000,2650000,2900000,Illustrative market reference,2026-08-30
+BMW,3 Series,330i Sport,2020,Petrol,Delhi,2900000,3150000,3400000,Illustrative market reference,2026-08-30
+BMW,3 Series,330i M Sport,2021,Petrol,Gurgaon,3250000,3500000,3750000,Illustrative market reference,2026-08-30
+BMW,3 Series,330i Sport,2022,Petrol,Delhi,3500000,3850000,4200000,Illustrative market reference,2026-08-30
+BMW,5 Series,520d Prestige,2017,Diesel,Delhi,2700000,3000000,3300000,Illustrative market reference,2026-08-30
+BMW,5 Series,520d Luxury Line,2018,Diesel,Delhi,3000000,3300000,3600000,Illustrative market reference,2026-08-30
+BMW,5 Series,520d Luxury Line,2019,Diesel,Gurgaon,3300000,3600000,3900000,Illustrative market reference,2026-08-30
+BMW,5 Series,530i Sport,2019,Petrol,Delhi,3450000,3750000,4050000,Illustrative market reference,2026-08-30
+BMW,5 Series,530d M Sport,2019,Diesel,Gurgaon,3600000,3900000,4200000,Illustrative market reference,2026-08-30
+BMW,5 Series,530i M Sport,2021,Petrol,Delhi,4300000,4650000,5000000,Illustrative market reference,2026-08-30
+BMW,6 Series GT,630d GT,2019,Diesel,Delhi,3800000,4100000,4400000,Illustrative market reference,2026-08-30
+BMW,7 Series,730Ld,2017,Diesel,Delhi,4700000,5150000,5600000,Illustrative market reference,2026-08-30
+BMW,7 Series,730Ld,2018,Diesel,Delhi,5200000,5650000,6100000,Illustrative market reference,2026-08-30
+BMW,7 Series,730Ld DPE,2019,Diesel,Gurgaon,5900000,6400000,6900000,Illustrative market reference,2026-08-30
+BMW,7 Series,730Ld DPE,2020,Diesel,Gurgaon,6500000,7100000,7700000,Illustrative market reference,2026-08-30
+BMW,X1,sDrive20d xLine,2017,Diesel,Delhi,1350000,1500000,1650000,Illustrative market reference,2026-08-30
+BMW,X1,sDrive20d xLine,2018,Diesel,Gurgaon,1500000,1650000,1800000,Illustrative market reference,2026-08-30
+BMW,X1,sDrive20i SportX,2020,Petrol,Delhi,1800000,2000000,2200000,Illustrative market reference,2026-08-30
+BMW,X1,sDrive20i SportX,2021,Petrol,Gurgaon,2050000,2250000,2450000,Illustrative market reference,2026-08-30
+BMW,X1,sDrive18i M Sport,2022,Petrol,Delhi,2500000,2750000,3000000,Illustrative market reference,2026-08-30
+BMW,X3,xDrive20d Luxury Line,2017,Diesel,Delhi,2350000,2600000,2850000,Illustrative market reference,2026-08-30
+BMW,X3,xDrive20d xLine,2018,Diesel,Delhi,2800000,3050000,3300000,Illustrative market reference,2026-08-30
+BMW,X3,xDrive20d Luxury Line,2019,Diesel,Delhi,3250000,3500000,3750000,Illustrative market reference,2026-08-30
+BMW,X3,xDrive20d xLine,2019,Diesel,Gurgaon,3000000,3300000,3600000,Illustrative market reference,2026-08-30
+BMW,X3,xDrive20d M Sport,2020,Diesel,Gurgaon,3600000,3900000,4200000,Illustrative market reference,2026-08-30
+BMW,X3,xDrive20d M Sport,2021,Diesel,Delhi,3900000,4250000,4600000,Illustrative market reference,2026-08-30
+BMW,X3,xDrive30i M Sport,2022,Petrol,Gurgaon,4500000,4900000,5300000,Illustrative market reference,2026-08-30
+BMW,X4,xDrive20d M Sport X,2019,Diesel,Delhi,3900000,4250000,4600000,Illustrative market reference,2026-08-30
+BMW,X4,xDrive30i M Sport X,2019,Petrol,Delhi,4200000,4550000,4900000,Illustrative market reference,2026-08-30
+BMW,X4,xDrive30i M Sport X,2021,Petrol,Gurgaon,4750000,5200000,5650000,Illustrative market reference,2026-08-30
+BMW,X5,xDrive30d Sport,2017,Diesel,Delhi,4300000,4700000,5100000,Illustrative market reference,2026-08-30
+BMW,X5,xDrive30d Sport,2018,Diesel,Delhi,4700000,5100000,5500000,Illustrative market reference,2026-08-30
+BMW,X5,xDrive30d xLine,2019,Diesel,Delhi,5600000,6100000,6600000,Illustrative market reference,2026-08-30
+BMW,X5,xDrive30d xLine,2020,Diesel,Gurgaon,5900000,6400000,6900000,Illustrative market reference,2026-08-30
+BMW,X5,xDrive40i M Sport,2020,Petrol,Gurgaon,6200000,6750000,7300000,Illustrative market reference,2026-08-30
+BMW,X5,xDrive40i M Sport,2021,Petrol,Delhi,6500000,7050000,7600000,Illustrative market reference,2026-08-30
+BMW,X6,xDrive40i M Sport,2020,Petrol,Delhi,6500000,7100000,7700000,Illustrative market reference,2026-08-30
+BMW,X7,xDrive30d DPE,2019,Diesel,Delhi,7000000,7650000,8300000,Illustrative market reference,2026-08-30
+BMW,X7,xDrive30d DPE,2020,Diesel,Gurgaon,7600000,8250000,8900000,Illustrative market reference,2026-08-30
+BMW,X7,xDrive40i M Sport,2021,Petrol,Gurgaon,8500000,9250000,10000000,Illustrative market reference,2026-08-30
+BMW,X7,xDrive40i M Sport,2022,Petrol,Delhi,9000000,9800000,10600000,Illustrative market reference,2026-08-30
+BMW,Z4,sDrive20i,2020,Petrol,Delhi,4500000,4900000,5300000,Illustrative market reference,2026-08-30
+BMW,Z4,M40i,2021,Petrol,Gurgaon,6000000,6600000,7200000,Illustrative market reference,2026-08-30
+BMW,8 Series,840i Gran Coupe,2021,Petrol,Delhi,8500000,9300000,10100000,Illustrative market reference,2026-08-30
+BMW,M4,M4 Competition,2021,Petrol,Delhi,9000000,9900000,10800000,Illustrative market reference,2026-08-30
+BMW,M340i,M340i xDrive,2022,Petrol,Gurgaon,6500000,7100000,7700000,Illustrative market reference,2026-08-30
+Hyundai,i20,Magna,2019,Petrol,Delhi,520000,580000,640000,Illustrative market reference,2026-08-30
+Hyundai,i20,Asta,2021,Petrol,Gurgaon,700000,780000,870000,Illustrative market reference,2026-08-30
+Hyundai,Grand i10 Nios,Sportz,2021,Petrol,Delhi,500000,560000,620000,Illustrative market reference,2026-08-30
+Hyundai,Verna,SX,2019,Petrol,Delhi,650000,730000,810000,Illustrative market reference,2026-08-30
+Hyundai,Verna,SX(O),2021,Petrol,Gurgaon,850000,950000,1050000,Illustrative market reference,2026-08-30
+Hyundai,Venue,SX,2021,Diesel,Gurgaon,850000,940000,1030000,Illustrative market reference,2026-08-30
+Hyundai,Creta,S,2020,Petrol,Delhi,900000,1000000,1120000,Illustrative market reference,2026-08-30
+Hyundai,Creta,SX(O),2021,Diesel,Gurgaon,1250000,1380000,1520000,Illustrative market reference,2026-08-30
+Hyundai,Alcazar,Signature,2021,Petrol,Delhi,1350000,1480000,1620000,Illustrative market reference,2026-08-30
+Tata,Tiago,XT,2019,Petrol,Delhi,370000,420000,470000,Illustrative market reference,2026-08-30
+Tata,Tiago,XZ,2021,Petrol,Delhi,470000,530000,590000,Illustrative market reference,2026-08-30
+Tata,Altroz,XM,2020,Petrol,Delhi,500000,570000,640000,Illustrative market reference,2026-08-30
+Tata,Altroz,XZ,2021,Diesel,Gurgaon,620000,700000,780000,Illustrative market reference,2026-08-30
+Tata,Nexon,XM,2019,Petrol,Delhi,550000,620000,690000,Illustrative market reference,2026-08-30
+Tata,Nexon,XZA+,2021,Diesel,Gurgaon,780000,870000,960000,Illustrative market reference,2026-08-30
+Tata,Harrier,XZA+,2021,Diesel,Gurgaon,1200000,1320000,1450000,Illustrative market reference,2026-08-30
+Tata,Safari,XZA+,2021,Diesel,Delhi,1250000,1380000,1520000,Illustrative market reference,2026-08-30
+Honda,Amaze,VX,2019,Petrol,Delhi,500000,560000,620000,Illustrative market reference,2026-08-30
+Honda,Amaze,VX,2020,Diesel,Delhi,580000,650000,720000,Illustrative market reference,2026-08-30
+Honda,City,V,2019,Petrol,Delhi,700000,790000,880000,Illustrative market reference,2026-08-30
+Honda,City,VX,2021,Petrol,Gurgaon,930000,1030000,1140000,Illustrative market reference,2026-08-30
+Honda,WR-V,VX,2019,Diesel,Delhi,650000,720000,790000,Illustrative market reference,2026-08-30
+Honda,Jazz,V,2019,Petrol,Delhi,600000,670000,740000,Illustrative market reference,2026-08-30
+Toyota,Glanza,G,2020,Petrol,Delhi,560000,630000,700000,Illustrative market reference,2026-08-30
+Toyota,Glanza,V,2021,Petrol,Gurgaon,650000,730000,810000,Illustrative market reference,2026-08-30
+Toyota,Innova Crysta,ZX,2021,Diesel,Gurgaon,1750000,1920000,2100000,Illustrative market reference,2026-08-30
+Toyota,Fortuner,4x4,2021,Diesel,Gurgaon,3000000,3300000,3600000,Illustrative market reference,2026-08-30
+Kia,Sonet,HTK+,2020,Petrol,Delhi,650000,720000,790000,Illustrative market reference,2026-08-30
+Kia,Sonet,GTX+,2021,Diesel,Gurgaon,850000,940000,1030000,Illustrative market reference,2026-08-30
+Kia,Carens,Luxury Plus,2022,Diesel,Delhi,1250000,1380000,1520000,Illustrative market reference,2026-08-30
+Maruti Suzuki,Dzire,VXI,2019,Petrol,Delhi,450000,510000,570000,Illustrative market reference,2026-08-30
+Maruti Suzuki,Dzire,ZXI,2021,Petrol,Gurgaon,580000,650000,720000,Illustrative market reference,2026-08-30
+Maruti Suzuki,Ciaz,Alpha,2019,Petrol,Delhi,650000,730000,810000,Illustrative market reference,2026-08-30
+Maruti Suzuki,Ertiga,VXI,2020,Petrol,Delhi,650000,730000,810000,Illustrative market reference,2026-08-30
+Maruti Suzuki,Ertiga,ZXI,2021,Petrol,Gurgaon,760000,840000,930000,Illustrative market reference,2026-08-30
+Volkswagen,Polo,Comfortline,2019,Petrol,Delhi,500000,560000,620000,Illustrative market reference,2026-08-30
+Volkswagen,Virtus,Highline,2022,Petrol,Gurgaon,1000000,1110000,1220000,Illustrative market reference,2026-08-30
+Skoda,Rapid,Style,2019,Petrol,Delhi,550000,620000,690000,Illustrative market reference,2026-08-30
+Skoda,Slavia,Style,2022,Petrol,Gurgaon,1050000,1160000,1280000,Illustrative market reference,2026-08-30
+Mahindra,Bolero,B6,2019,Diesel,Delhi,650000,730000,810000,Illustrative market reference,2026-08-30
+Mahindra,Scorpio,S11,2019,Diesel,Delhi,900000,1000000,1110000,Illustrative market reference,2026-08-30
+Renault,Kwid,RXT,2020,Petrol,Delhi,300000,350000,400000,Illustrative market reference,2026-08-30
+Nissan,Magnite,XV,2021,Petrol,Delhi,550000,620000,690000,Illustrative market reference,2026-08-30
+MG,Hector,Sharp,2020,Petrol,Delhi,950000,1050000,1160000,Illustrative market reference,2026-08-30
+MG,Astor,Sharp,2022,Petrol,Gurgaon,1000000,1110000,1220000,Illustrative market reference,2026-08-30
